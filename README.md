@@ -23,7 +23,7 @@ Forever curious, mostly automated, and always experimenting.
 ### 🔗 Let's Connect
 * **LinkedIn:** [poojagupta907](https://www.linkedin.com/in/poojagupta907/)
 * **Visual Portfolio:** [Tableau Public Profile](https://public.tableau.com/app/profile/pooja.gupta1511)
-* **Analytical Portfolio:** [Github repository](https://github.com/Pooja394026/Analytics-Portfolio)
+* **Analytical Portfolio:** [Github repository](https://github.com/Pooja394026/Analytical-Project)
 
 
 
